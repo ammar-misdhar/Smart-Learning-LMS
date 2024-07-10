@@ -71,6 +71,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 Thank you for visiting the Smart Learning Game repository! 🙌
-
-#SmartLearning #EdTech #Java #MySQL #UIUXDesign #GameDevelopment #Education #StudentEngagement
-```
